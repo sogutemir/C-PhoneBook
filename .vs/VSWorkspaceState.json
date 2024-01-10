@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\PhoneBookProject",
+    "\\PhoneBookProject\\PhoneBookProject"
   ],
+  "SelectedNode": "\\PhoneBookProject\\PhoneBookProject\\PhoneBookProject.cpp",
   "PreviewInSolutionExplorer": false
 }
